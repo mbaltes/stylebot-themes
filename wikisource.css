@@ -1,0 +1,33 @@
+html,
+body,
+.mw-page-container,
+#mp-topbanner,
+#mp-left,
+.vector-header-container,
+span,
+#vector-toc,
+table,
+.trow,
+.thumbinner,
+input,
+button,
+figure,
+td,
+.mw-parser-output,
+#content,
+#mw-head,
+.header-mainblock,
+.header_notes,
+li,
+.subheadertemplate,
+.footertemplate,
+#catlinks,
+div {
+  background-color: #002b36;
+  color: grey;
+}
+
+a {
+  color: #596e75;
+  background-color: #002b36;
+}

@@ -1,0 +1,39 @@
+html, 
+body,
+.mw-page-container,
+#mp-topbanner,
+#mp-left,
+.vector-header-container,
+span,
+#vector-toc,
+table,
+.trow,
+.thumbinner,
+input,
+button,
+figure,
+td,
+.sidebar-list-title {
+  background-color: #002b36;
+  color: grey;
+}
+
+a {
+  color: #596e75;
+}
+
+th,
+.rt-tooltip,
+.mwe-popups-container,
+figcaption,
+#catlinks,
+.side-box-flex,
+.navbox,
+.cdx-menu {
+  background-color: #002b36;
+}
+
+.vector-toc::after,
+a::after {
+  background: #002b36;
+}
